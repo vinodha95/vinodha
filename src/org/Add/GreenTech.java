@@ -29,22 +29,30 @@ private void greensVelachery() {
 		e.greensOmr();
 		e.greensTambaram();
 		e.greensVelachery();
-<<<<<<< HEAD
+
 		System.out.println("prabu added");
 		System.out.println("prabu added");
 		System.out.println("prabu added");
 		System.out.println("prabu added");
 		System.out.println("prabu added");
 		
-=======
+
 		
 		System.out.println("meera");
 		System.out.println("meera");
 		System.out.println("meera");
 		System.out.println("meera");
 		System.out.println("meera");
->>>>>>> 6878242ae064779a236cf0332fdfd000138b6677
+
+		System.out.println("sakthi added");
+		System.out.println("sakthi added");
+		System.out.println("sakthi added");
+		System.out.println("sakthi added");
 		
+	
+	
+	
+	
 	}
 	
 	
